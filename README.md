@@ -1,5 +1,3 @@
-
-Master:
 ## AJAX requests 
 and 
 ## API docs
